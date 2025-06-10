@@ -83,6 +83,7 @@ project/
     | `/profile/upload` | Upload profile picture  |
 
 🔐 Authentication
+
 JWT is stored in cookies for route protection.
 
 Middleware isLoggedIn is used to protect user routes.
